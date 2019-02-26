@@ -12,8 +12,8 @@ This is a demo project showcasing features of React Storybook. Storybook runs al
 
 
 ## Scripts
-Initiate a create-react-app project with the name `taskbox`
-#### `npx create-react-app taskbox`
+Initiate a create-react-app project with the name `react-storybook-demo`
+#### `npx create-react-app react-storybook-demo`
 
 Add storybook to the project and initiate storybook
 #### `npx -p @storybook/cli sb init`
